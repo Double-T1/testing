@@ -1,4 +1,4 @@
-包含以下內容
+包含以下內容的 binary files
 
 1. Python：3.11.10
 2. Microsoft ODBC Driver for SQL Server (Linux)：18.4.1.1
